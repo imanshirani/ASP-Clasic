@@ -1,0 +1,73 @@
+.text {
+	font-family: tahoma;
+	font-size: 10 px;
+	font-weight: normal;
+	text-decoration: none;
+}
+.text2 {
+	font-family: tahoma;
+	font-size: 10 px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #003366;
+}
+.text3 {
+	font-family: tahoma;
+	font-size: 12 px;
+	colo : Blue;
+	font-weight: normal;
+	text-decoration: none;
+	color: #000000;
+}
+.H1 {
+	font-family: tahoma;
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #FF0000;
+}
+.a {
+	color : #999999;
+	font-family: Tahoma;
+	text-decoration: none;
+	font-size: 12px;
+	font-weight: normal;
+}
+.a:haver {
+	color : #FFFFCC;
+	font-family: Tahoma;
+	text-decoration : none;
+	font-size: 12px;
+	font-weight: normal;
+}
+a:visited {
+	color :#663300;
+	font-family: Tahoma;
+	text-decoration : none;
+	font-size: 12px;
+	font-weight: normal;
+}
+input {
+ color: #000000;
+ font: normal 12px tahoma;
+ border: 1px solid #FFCC00;
+ background-color: #FFFFCC;
+ padding-bottom: 1;
+}
+
+textarea {
+  font: normal 12px Tahoma;
+}
+
+select {
+  font: normal 12px Tahoma;
+}
+.border{
+	border: 1px solid #660000;
+	background-color: #FFFFCC;
+	background-repeat: repeat;
+	text-align: center;
+	display: table-cell;
+	background-attachment: scroll;
+	background-position: center center;
+}
